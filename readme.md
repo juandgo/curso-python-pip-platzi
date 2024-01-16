@@ -2,11 +2,10 @@
 
 Para correr el juego debes las siguientes instrucciones en la terminal:
 
-'''sh
+```sh
 cd game 
 python3 main.py
-'''
-
+```
 # App project
 
 ````sh 
